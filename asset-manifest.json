@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_React/static/css/main.50cf33b4.css",
-    "main.js": "/Portfolio_React/static/js/main.9a565ebe.js",
+    "main.css": "/Portfolio_React/static/css/main.7e4854f1.css",
+    "main.js": "/Portfolio_React/static/js/main.7b9ee32a.js",
     "static/media/about.webp": "/Portfolio_React/static/media/about.2c2bda9a46420b56d2b5.webp",
     "static/media/banner-woman2.webp": "/Portfolio_React/static/media/banner-woman2.484a3b40fee634e4b12f.webp",
     "static/media/testimonial-2.webp": "/Portfolio_React/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
@@ -9,7 +9,9 @@
     "static/media/p5.webp": "/Portfolio_React/static/media/p5.40f22911cc8104bfdf42.webp",
     "static/media/testimonial-3.webp": "/Portfolio_React/static/media/testimonial-3.677360499dd5a97f022a.webp",
     "static/media/logo.svg": "/Portfolio_React/static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
+    "static/media/services.svg": "/Portfolio_React/static/media/services.0d43785bd1f41e4d0371.svg",
     "static/media/portfolio.svg": "/Portfolio_React/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/Portfolio_React/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
     "static/media/p3.webp": "/Portfolio_React/static/media/p3.05179f007af7cd2ad2a6.webp",
     "static/media/p4.webp": "/Portfolio_React/static/media/p4.373ffd063f14c91c84c5.webp",
     "static/media/p6.webp": "/Portfolio_React/static/media/p6.26fcf4320bfa0eacc03a.webp",
@@ -17,11 +19,11 @@
     "static/media/p2.webp": "/Portfolio_React/static/media/p2.987c883e6e66df8a1228.webp",
     "static/media/about.svg": "/Portfolio_React/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/Portfolio_React/index.html",
-    "main.50cf33b4.css.map": "/Portfolio_React/static/css/main.50cf33b4.css.map",
-    "main.9a565ebe.js.map": "/Portfolio_React/static/js/main.9a565ebe.js.map"
+    "main.7e4854f1.css.map": "/Portfolio_React/static/css/main.7e4854f1.css.map",
+    "main.7b9ee32a.js.map": "/Portfolio_React/static/js/main.7b9ee32a.js.map"
   },
   "entrypoints": [
-    "static/css/main.50cf33b4.css",
-    "static/js/main.9a565ebe.js"
+    "static/css/main.7e4854f1.css",
+    "static/js/main.7b9ee32a.js"
   ]
 }
